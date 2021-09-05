@@ -1,4 +1,3 @@
 Some files contain problems.
 No errors and 18 warnings found.
 Would you like to review them?
-reject
